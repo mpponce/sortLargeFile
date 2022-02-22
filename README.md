@@ -5,8 +5,8 @@ To run from command line:
 
 java -jar "PaulaPonce.jar" path inputFileName outputFileName
 
-ubuntu example:
-java -Xmx100M -jar "PaulaPonce.jar" "/home/novakorp/sortLargeFile-main/" fileNumbers2 fileOutSorted
+ubuntu example: /n
+java -Xmx100M -jar "PaulaPonce.jar" "/home/novakorp/sortLargeFile-main/" fileNumbers2 fileOutSorted/n
 windows example:
 java -Xmx100M -jar "PaulaPonce.jar" "C:\\prueba\\" fileNumbers2 fileOutSorted
 
